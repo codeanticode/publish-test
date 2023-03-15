@@ -3,10 +3,11 @@
   <groupId>org.processing.android</groupId>
   <artifactId>processing-core</artifactId>
   <versioning>
-    <release>4.5.0b5</release>
+    <release>4.5.0</release>
     <versions>
       <version>4.5.0b5</version>
+      <version>4.5.0</version>
     </versions>
-    <lastUpdated>20230315213511</lastUpdated>
+    <lastUpdated>20230315225608</lastUpdated>
   </versioning>
 </metadata>
